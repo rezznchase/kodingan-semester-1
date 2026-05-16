@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "vscode-pets.petType": "dog",
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.petColor": "warrior"
+}
